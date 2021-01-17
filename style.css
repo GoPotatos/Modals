@@ -1,0 +1,33 @@
+.ModalPop {
+    position: absolute;
+    
+  }
+
+         #container{
+                margin-top: 10px;
+                position: relative;
+                height: 1000px;
+                width: 1500px;
+                border-style:solid;
+                padding: 20px;
+                border-color: #7e0a0a;
+            }
+            #topbar{
+                background-color: #7e0a0a;
+                text-align: center;
+                border-bottom-style: solid;
+                border-top-style: solid;
+                padding-top: 20px;
+                height:100px;
+            }
+            #logo{
+                position: absolute;
+                left: 250px;
+                height: 100px;
+                margin-bottom: 20px;
+                
+            }
+            #pupmap{
+                position: absolute;
+                margin-top: 20px;
+            }
